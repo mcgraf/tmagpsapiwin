@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tmagpsapiwin">
+</Property><Property Name="Solution File" Value="C:\Work\Code\GPS Library for VB.Net\Application-Source\tmagpsapiwin.sln">
+</Property><Property Name="User Options File" Value="C:\Work\Code\GPS Library for VB.Net\Application-Source\tmagpsapiwin.suo">
+</Property><Property Name="Date" Value="Monday, June 30, 2008">
+</Property><Property Name="Time" Value="17:36 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="tmagpsapiwin.sln" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\tmagpsapiwin.sln">
+</Event><Event ErrorLevel="0" Project="" Source="tmagpsapiwin.suo" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\tmagpsapiwin.suo">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="tmagpsapiwin.vbproj" Description="Project file successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\tmagpsapiwin.vbproj">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="tmagpsapiwin.vbproj.user" Description="Project user file successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\tmagpsapiwin.vbproj.user">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="frmMain.vb" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="frmMain.Designer.vb" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="Resources\compas2.png" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\Resources\compas2.png">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="Resources\arraw.png" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\Resources\arraw.png">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="frmMain.resx" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Work\Code\GPS Library for VB.Net\Application-Source\Backup1\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="tmagpsapiwin.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="tmagpsapiwin" Source="tmagpsapiwin.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="tmagpsapiwin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="tmagpsapiwin.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="tmagpsapiwin" Source="tmagpsapiwin.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
